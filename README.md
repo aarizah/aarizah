@@ -20,15 +20,6 @@ Focused on measurable impact: **accuracy, latency, and cost per query.**
 
 ---
 
-### 🚀 Selected Projects
-- **AI Support Assistant** — Internal RAG system with sources, metrics & feedback loop  
-- **DocInsight** — Automated document analysis & summarization dashboard (Next.js + FastAPI)  
-- **AI Product Evaluator** — LLM benchmarking for latency, cost, and accuracy tracking  
-
-*(Projects focus on real-world use of LLMs with data, not just demos.)*
-
----
-
 ### 📈 What I Care About
 ✅ Real metrics (accuracy, latency, $/query)  
 ✅ Secure data handling (PII hygiene, IAM, guardrails)  
