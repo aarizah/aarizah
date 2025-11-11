@@ -28,7 +28,7 @@ Focused on measurable impact: **accuracy, latency, and cost per query.**
 ---
 
 ### 🧭 Let's Connect
-📫 [LinkedIn]([https://www.linkedin.com/in/alex-ariza-herrera/])
+📫 [LinkedIn](https://www.linkedin.com/in/alex-ariza-herrera/)
 
 Open to teams **building real AI products**.
 
